@@ -1,2 +1,2 @@
-# MAP565
-Time Series Project
+# MAP565 Time Series Project
+
