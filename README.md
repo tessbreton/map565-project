@@ -40,3 +40,6 @@ Et au moins trois des cinq outils suivants
  
 - A me rendre sous format pdf obligatoire (pas notebook Python) pour le 10 avril 2023, dans un mail dont le titre sera "Mémoire statistique" à
 mathieu.rosenbaum@polytechnique.edu
+
+
+Sorte de mode d'emploi intéressant: https://www.kaggle.com/code/sunaysawant/power-consumption-time-series-arima, sur les séries temporelles, ARIMA SARIMA, etc...

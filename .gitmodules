@@ -1,0 +1,6 @@
+[submodule "time-series-analysis"]
+	path = time-series-analysis
+	url = https://github.com/marcopeix/time-series-analysis.git
+[submodule "TimeSeries_Notebooks_Collections"]
+	path = TimeSeries_Notebooks_Collections
+	url = https://github.com/quantsense/TimeSeries_Notebooks_Collections.git
