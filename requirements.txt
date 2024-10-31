@@ -3,3 +3,6 @@ numpy
 copulas
 ipykernel
 statsmodels
+matplotlib
+arch
+copulalib
