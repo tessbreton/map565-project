@@ -1,4 +1,4 @@
-# MAP565 Time Series Project
+# MAP565 Statistics Project
 
 In this projet, we carry out statistical studies on four different datasets to use the concepts we learned in MAP565. 
 - The first dataset contains stock price data for NASDAQ companies; we use it to model the Amazon share price with GARCH processes, and then to model the dependence between the Amazon and Google share prices using copulas. 
